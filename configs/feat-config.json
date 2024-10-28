@@ -1,0 +1,14 @@
+{
+  "config_id": "44c91614-77eb-4eba-b58d-391aaa47d432",
+  "project_id": "f3ca5c7d-9edf-4688-8941-7353fdf3bc0a",
+  "definition": {
+    "authorizations": {},
+    "labels": [],
+    "compliance_profile": {},
+    "members": [],
+    "uses": [],
+    "name": "feat-config",
+    "locator_id": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.3ba7b7ba-cef3-4511-bf76-8652a1961a08-global",
+    "description": ""
+  }
+}
