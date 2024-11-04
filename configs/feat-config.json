@@ -4,7 +4,9 @@
   "definition": {
     "authorizations": {},
     "labels": [],
-    "inputs": {},
+    "inputs": {
+      "cos_bucket_name": "new"
+    },
     "compliance_profile": {},
     "members": [],
     "uses": [],
