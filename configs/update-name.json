@@ -5,7 +5,7 @@
     "authorizations": {},
     "labels": [],
     "inputs": {
-      "cos_bucket_name": "before"
+      "cos_bucket_name": "AFTER"
     },
     "compliance_profile": {},
     "members": [],
